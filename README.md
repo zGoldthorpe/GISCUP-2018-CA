@@ -1,7 +1,7 @@
 ACM SIGSPATIAL GIS Cup 2018 Submission
 =======================================
 
-The following is the largely untouched submission for the [GIS Cup 2018](https://sigspatial2018.sigspatial.org/giscup2018/) by Zach Goldthorpe, Jason Cannon, and Jesse Farebrother. An elaboration on how the algorithm works at the higher level is provided in our paper "Using Biconnected Components for Efficient Identification of Upstream Features in Large Spatial Networks (GIS Cup".
+The following is the largely untouched submission for the [GIS Cup 2018](https://sigspatial2018.sigspatial.org/giscup2018/) by Zach Goldthorpe, Jason Cannon, and Jesse Farebrother. An elaboration on how the algorithm works at the higher level is provided in our paper "Using Biconnected Components for Efficient Identification of Upstream Features in Large Spatial Networks (GIS Cup)".
 
 DELIVERABLES
 =============
